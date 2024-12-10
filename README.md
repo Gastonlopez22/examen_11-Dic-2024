@@ -13,7 +13,7 @@
    [[Manual de Protocolo de Emergencia y Evacuación](https://docs.google.com/document/d/1aa6iCKogugVVUID_myCxFJTHPYHGsxozA5rrtwmBWdo/edit?usp=sharing)]
    
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
-   [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1zY_w-6ZDfo8xIBMTgG1ffKfAg8_xlmPaqX_jyBtjx-A/edit?gid=0#gid=0)]
+   [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1zY_w-6ZDfo8xIBMTgG1ffKfAg8_xlmPaqX_jyBtjx-A/edit?usp=sharing)]
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
    [[Presentaciones](https://gamma.app/docs/Protocolos-de-Emergencia-y-Evacuacion-Aserradero-0h3bdegzllq1lz2)]
